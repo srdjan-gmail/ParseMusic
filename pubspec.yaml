@@ -1,0 +1,5 @@
+name: parse_music
+environment:
+  sdk: any
+dependencies:
+  xml: "^2.4.0"
